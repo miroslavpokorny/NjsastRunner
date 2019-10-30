@@ -1,0 +1,3 @@
+[submodule "Njsast"]
+	path = Njsast
+	url = https://github.com/Bobris/Njsast.git
